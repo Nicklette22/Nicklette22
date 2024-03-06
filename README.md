@@ -7,7 +7,7 @@ Data Analyst in training
 Open to opportunities in Data, I come from a Retail Banking background for the last 12 years, and looking for a career change as a Data analyst either on a entry or junior position role. I'm enthusiastic about working with the Git Hub community with pure data either in it's structured, semi-structure and unstructured form, and creating insightful reports, visuals and models.
 
 * 🌍  I'm based in United Kingdom, Essex
-* ✉️  You can contact me at [nbasilua@yahoo.co.uk](mailto:nbasilua@yahoo.co.uk)
+* ✉️  You can contact me at [nicklette@live.co.uk](mailto:nicklette@live.co.uk)
 * 🧠  I'm learning R and Power BI
 * 🤝  I'm open to collaborating on Excel, Tableau and My SQL projects
 
